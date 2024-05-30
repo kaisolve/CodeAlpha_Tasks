@@ -5,12 +5,12 @@ This Song Recommendation System uses natural language processing techniques to p
 
 Here's what the Song Recommendation System brings to the table:
 
-🔍 Personalized Recommendations: Users can input a song title and receive a list of similar songs based on their TF-IDF cosine similarity.
+**🔍 Personalized Recommendations:** Users can input a song title and receive a list of similar songs based on their TF-IDF cosine similarity.
 
-💾 Efficient Data Handling: The similarity matrix and song data are serialized using pickle, allowing for quick loading and saving, improving performance.
+**💾 Efficient Data Handling:** The similarity matrix and song data are serialized using pickle, allowing for quick loading and saving, improving performance.
 
-🔠 Text Processing: Utilizes TF-IDF Vectorizer to transform text data into meaningful vectors for similarity comparison.
+**🔠 Text Processing:** Utilizes TF-IDF Vectorizer to transform text data into meaningful vectors for similarity comparison.
 
-⚖️ Scalability: Designed to handle large datasets efficiently, making it ideal for larger music libraries.
+**⚖️ Scalability:** Designed to handle large datasets efficiently, making it ideal for larger music libraries.
 
-💻 User Interface: a **Flutter Application** Will be integrated soon for a seamless recommendation experience.
+**💻 User Interface:** a **Flutter Application** Will be integrated soon for a seamless recommendation experience.
